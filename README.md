@@ -27,6 +27,6 @@ I design and deliver complete products with **C#/.NET** on the backend and **Rea
 
 ### Let's talk
 
-[LinkedIn](https://www.linkedin.com/in/pedro-tozaki/) · [pedrotozaki@hotmail.com](mailto:pedrotozaki@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/pedro-tozaki/) · [pedro@tozaki.dev](mailto:pedro@tozaki.dev)
 
 <sub>English: full professional (TOEIC certified)</sub>
