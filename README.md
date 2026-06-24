@@ -12,7 +12,7 @@ I design and deliver complete products with **C#/.NET** on the backend and **Rea
 
 ### Tech stack
 
-`C#` · `.NET / ASP.NET Core` · `TypeScript` · `React` · `Next.js` · `Angular` · `Flutter`
+`C#` · `.NET / ASP.NET Core` · `TypeScript` · `React` · `Next.js` · `Astro` · `Angular` · `Flutter`
 `PostgreSQL` · `EF Core` · `Dapper` · `REST APIs` · `Clean Architecture` · `Docker`
 
 ---
