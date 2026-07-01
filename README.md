@@ -6,7 +6,7 @@
 
 ### What I do
 
-I design and deliver complete products with **C#/.NET** on the backend and **React/Next.js** on the front — clean architecture, real databases, production concerns handled. To move faster without trading away quality, I run an **AI-assisted engineering workflow**: specialized agents support each stage of the cycle (requirements, docs, architecture, implementation, QA), always under human review. Open to **international, remote, product-focused teams**.
+I design and deliver complete products with **C#/.NET** on the backend and **React/Next.js & Angular** on the front — clean architecture, real databases, production concerns handled. To move faster without trading away quality, I run an **AI-assisted engineering workflow**: specialized agents support each stage of the cycle (requirements, docs, architecture, implementation, QA), always under human review. Open to **international, remote, product-focused teams**.
 
 ---
 
